@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562193539412",
+    "project_id": "delicious-point-3bc7e",
+    "storage_bucket": "delicious-point-3bc7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562193539412:android:2b5ac68c504decbf6a28c1",
+        "android_client_info": {
+          "package_name": "com.example.adminwaveoffood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy6VYQBYUNj3bWzJffyoDbDVteJKDUntM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
